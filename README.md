@@ -99,27 +99,27 @@ const annus = {
 ## 📊 GitHub Analytics
 <!--
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Annus1212&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=AnnusShahzad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
 </div> 
 -->
 
 <div align="center" style="width: 100%; display: flex; justify-content: space-between; align-items: center; background-color: red">
-  <img width="39.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annus1212&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-<!--   <img width="61.25%" src="https://streak-stats.demolab.com/?user=Annus1212&theme=tokyonight&hide_border=true&date_format=M%20j" alt="GitHub Streak" /> -->
- <img width="59.25%" src="https://github-readme-stats.vercel.app/api?username=Annus1212&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
+  <img width="39.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnusShahzad&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<!--   <img width="61.25%" src="https://streak-stats.demolab.com/?user=AnnusShahzad&theme=tokyonight&hide_border=true&date_format=M%20j" alt="GitHub Streak" /> -->
+ <img width="59.25%" src="https://github-readme-stats.vercel.app/api?username=AnnusShahzad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
   
 </div> 
 
 <!-- Alternative GitHub Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Annus1212&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnnusShahzad&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </div>
 
 ## 🤝 Let's Connect & Build Something Amazing!
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/Annus1212)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/AnnusShahzad)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annus-shahzad/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:l233004@lhr.nu.edu.pk)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](javascript:alert("Coming%20Soon"))
@@ -129,7 +129,7 @@ const annus = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Annus1212&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AnnusShahzad&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <div align="center">
