@@ -69,11 +69,13 @@ A drop-in widget that records errors, slow requests and user feedback for any we
 <sub>TypeScript · Express · Next.js · SQLite · PostgreSQL</sub>
 
 ### [AsliDawa](https://github.com/AnnusShahzad/AsliDawa): spot counterfeit medicine with your phone
+🏆 **Alibaba Cloud AI Hackathon Pakistan 2026: qualified as a Grade 1 project and advanced to the Regional Round.**
+
 A mobile app for patients and pharmacists in Pakistan. It combines barcode checks, packaging analysis with computer vision, and community reports, and it works offline. It is built to plug into DRAP's national medicine track-and-trace system.
 
 <sub>Flutter · FastAPI · PostgreSQL + pgvector · TensorFlow Lite</sub>
 
-**Also built:** [Tracer](https://github.com/AnnusShahzad/Tracer) (Linux process tracer in C) · JS2Rust (JavaScript → Rust compiler, in progress) · real-time solar monitoring app (Kotlin) · BISE gazette parser (10k+ records)
+**Also built:** [Tracer](https://github.com/AnnusShahzad/Tracer) (Linux process tracer in C) · JS2Rust (JavaScript → Rust compiler, team Final Year Project, in progress) · real-time solar monitoring app (Kotlin) · BISE gazette parser (10k+ records)
 
 ---
 
@@ -85,8 +87,8 @@ A mobile app for patients and pharmacists in Pakistan. It combines barcode check
 - Built multi-tenant SaaS hosting with one isolated Docker container per customer, and tested isolation: **0** writes landed in the wrong customer's data
 - Wrote **40** research reports on AI-agent safety, RAG, security and performance, each with reproducible evidence
 
-**Teaching Assistant, FAST-NUCES Lahore** · *Spring 2025 – Present (5 consecutive semesters)*
-- Supported **9 sections** across Programming Fundamentals, Object-Oriented Programming, Data Structures and Cyber Security
+**Teaching Assistant, FAST-NUCES Lahore** · *Jan 2025 – Present (5 consecutive semesters)*
+- Supported **9 sections (450+ students)** across Programming Fundamentals, Object-Oriented Programming, Data Structures and Cyber Security
 - Selected again every semester since Spring 2025, often for several sections at once
 
 ---
@@ -100,6 +102,7 @@ A mobile app for patients and pharmacists in Pakistan. It combines barcode check
 | 🥇 | **RC3 Capture The Flag**, Winner | Riphah Int'l University | 2025 |
 | 🥇 | **TechVerse Capture The Flag**, Winner | UMT Lahore | 2025 |
 | 🥈 | **COMBITs Speed Programming**, Runner-up | COMSATS Attock | 2025 |
+| 🚀 | **Alibaba Cloud AI Hackathon Pakistan**, Regional Round qualifier (AsliDawa, Grade 1 project) | Alibaba Cloud | 2026 |
 | 🎯 | **Digital Pakistan Speed Programming**, Finalist (Top 30 of 1,400+ teams) | Ignite CodePK (Govt) | 2025 |
 | 🎯 | **Digital Pakistan Cybersecurity Hackathon**, Finalist | Ignite Trillium (Govt) | 2024 |
 | 🥉 | **Bronze Medal** (Fall 2024) · **Dean's List** ×4 | FAST-NUCES | 2024–26 |
