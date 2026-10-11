@@ -1,141 +1,124 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Annus+%F0%9F%91%8B;Full-Stack+Software+Engineer;Problem+Solver+%26+Innovator;Building+Tomorrow's+Solutions" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" height="300"/>
-</div>
+# Muhammad Annus Shahzad
 
-## 🚀 About Me
+**AI + Full-Stack Engineer** · I make LLM agents safe enough to touch real business data
 
-```typescript
-const annus = {
-    pronouns: "He/Him",
-    location: "🌍 Ready for Global Opportunities",
-    currentRole: "Software Engineer",
-    passion: "Building scalable solutions that make a difference",
-    
-    expertise: {
-        fullStack: ["Frontend", "Backend", "Database Design"],
-        mobile: ["Android Development", "Cross-platform"],
-        systems: ["Low-level Programming", "Performance Optimization"],
-        domains: ["Web Apps", "Desktop Apps", "Mobile Apps", "System Tools"]
-    },
-    
-    motto: "Code with purpose, innovate with passion! 💡"
-};
-```
-## 🛠️ Tech Arsenal
+🎓 B.S. Software Engineering @ FAST-NUCES Lahore · GPA 3.5 · **Graduating June 2027**<br>
+📍 Lahore, Pakistan · Open to remote & relocation
 
-<div align="center">
-
-### **Languages & Frameworks**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![WinForms](https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Pebble](https://img.shields.io/badge/Pebble-Template-FF6B6B?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white&style=for-the-badge)](#)
-[![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff&style=for-the-badge)](#)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge)](#)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white&style=for-the-badge)](#)
-[![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff&style=for-the-badge)](#)
-
-### **Web Technologies**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![WinForms](https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-[![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=for-the-badge)](#)
-[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white&style=for-the-badge)](#)
-[![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&style=for-the-badge&logoColor=#00C7B7)](#)
-[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white&style=for-the-badge)](#)
-[![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black&style=for-the-badge)](#)
-[![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important&style=for-the-badge)](#)
-[![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white&style=for-the-badge)](#)
-[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white&style=for-the-badge)](#)
-[![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff&style=for-the-badge)](#)
-[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=for-the-badge)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)](#)
-[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff&style=for-the-badge)](#)
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white&style=for-the-badge)](#)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)](#)
-[![Unsplash](https://img.shields.io/badge/Unsplash-000000?logo=Unsplash&logoColor=white&style=for-the-badge)](#)
-
-</div>
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-| 🎬 **AbsoluteCinema** | 📋 **JiraRedefined** | 🎓 **SmartScheduler** |
-|:---:|:---:|:---:|
-| Java-powered cinema management | C++ project management tool | Advanced scheduling system |
-| PostgreSQL + ORM architecture | WinForms desktop application | Requirements engineering focus |
-| **37.4% Java, 48.9% CSS** | **100% C++** | **97% C, 3% C++** |
-
-| 📱 **MentorApp** | 🐍 **SoftecParser** | 📚 **FAST-TimeTable** |
-|:---:|:---:|:---:|
-| Kotlin mobile application | Python data processing tool | Full-stack scheduling platform |
-| Native Android development | HTML parsing & automation | TypeScript + JavaScript |
-| **100% Kotlin** | **91.4% Python** | **53.6% JS, 31.1% TS** |
-
-</div>
-
-## 📊 GitHub Analytics
-<!--
-<div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=AnnusShahzad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
-</div> 
--->
-
-<div align="center" style="width: 100%; display: flex; justify-content: space-between; align-items: center; background-color: red">
-  <img width="39.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnusShahzad&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-<!--   <img width="61.25%" src="https://streak-stats.demolab.com/?user=AnnusShahzad&theme=tokyonight&hide_border=true&date_format=M%20j" alt="GitHub Streak" /> -->
- <img width="59.25%" src="https://github-readme-stats.vercel.app/api?username=AnnusShahzad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
-  
-</div> 
-
-<!-- Alternative GitHub Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnnusShahzad&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</div>
-
-## 🤝 Let's Connect & Build Something Amazing!
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/AnnusShahzad)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annus-shahzad/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:l233004@lhr.nu.edu.pk)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](javascript:alert("Coming%20Soon"))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahzadannus8@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-PDF-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1uo13544V6wqmsw-RP4jgUq0gngVycSl8/view?usp=sharing)
+
+![Open to](https://img.shields.io/badge/Open_to-Internships_·_Contract_·_Full--time_from_June_2027-2ea44f?style=flat-square)
 
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnnusShahzad&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+## ⚡ At a glance
+
+- 💼 **7-month research contract (completed) at FAST-NUCES**: co-built an AI system that turns plain-English requests into ERP actions, with a human approving each one before it runs
+- 📈 **Fixed what slowed it down:** found the single queue behind 97% of the delay. Bypassing it cut median task time from **26 s to under 2 s**, and spec-to-app agents raised required-task coverage from **75% to 98.6%**
+- 🏆 **Won 4 programming and security competitions**, plus 1 runner-up and 2 national finals · **Dean's List** 4 semesters in a row
+- 🛡️ **Safety-first AI:** approval gates, audit trails, tenant isolation, and benchmarks that prove each one works
+
+---
+
+## 🚀 Featured Projects
+
+### POAL: talk to your ERP in plain English
+<sub>🔒 Private (research contract) · demo on request</sub>
+
+Office staff type *"Create a purchase order for 500 steel rods from vendor ABC"*. POAL works out what they mean, asks about any missing details, checks permissions, sends it for approval, and then carries it out. A Flutter app gives the same access on mobile.
+
+- ✅ Across **290** database writes, the AI **never invented** a record
+- ✅ Blocked **90 of 90** accidental duplicate submissions
+- ✅ Traced 97% of the delay to one queue. Bypassing it cut median task time from **26.2 s to 1.8 s**
+
+<sub>NestJS · Next.js · Python · PostgreSQL · Redis · BullMQ · Docker · Flutter</sub>
+
+### [Accura](https://github.com/AnnusShahzad/Accura): AI answers that check themselves
+A team of AI agents writes an answer, a separate agent grades it, and the system rewrites it until it meets a quality bar. Teams can self-host it with their own API keys.
+
+- ✅ **~22% more accurate** and **~45% fewer hallucinations** than single-pass answers from GPT-OSS 120B / 20B (400+ test prompts)
+- ✅ **~40% lower AI cost** with bring-your-own-key, and installs in **under 8 minutes** with Docker
+
+<sub>Python · Sanic · Next.js · PostgreSQL · Redis · MCP · Stripe</sub>
+
+### Monitorer: see what users experience, and what to build next
+<sub>🔒 Private (research contract) · demo on request</sub>
+
+A drop-in widget that records errors, slow requests and user feedback for any web app. A rule-based + AI ranker then turns that feedback into a prioritized list of what to build next.
+
+- ✅ **Zero data loss**: stored all **2,303 of 2,303** events across 540 test scenarios
+
+<sub>TypeScript · Express · Next.js · SQLite · PostgreSQL</sub>
+
+### [AsliDawa](https://github.com/AnnusShahzad/AsliDawa): spot counterfeit medicine with your phone
+A mobile app for patients and pharmacists in Pakistan. It combines barcode checks, packaging analysis with computer vision, and community reports, and it works offline. It is built to plug into DRAP's national medicine track-and-trace system.
+
+<sub>Flutter · FastAPI · PostgreSQL + pgvector · TensorFlow Lite</sub>
+
+**Also built:** [Tracer](https://github.com/AnnusShahzad/Tracer) (Linux process tracer in C) · JS2Rust (JavaScript → Rust compiler, in progress) · FAST timetable generator (200+ timetables for students) · real-time solar monitoring app (Kotlin) · BISE gazette parser (10k+ records)
+
+---
+
+## 💼 Experience
+
+**Research Programmer (Junior SWE), FAST-NUCES Lahore** · *Contract · Mar 2026 – Oct 2026 (completed)*
+- Built AI agents that generate ERP apps from written specs: **36 of 36** schemas were valid, and required-task coverage rose from 75% to 98.6%
+- Tested security thoroughly: **748** authorization tests and **652** QA runs. Each of the 5 bugs found became a permanent automated test
+- Built multi-tenant SaaS hosting with one isolated Docker container per customer, and tested isolation: **0** writes landed in the wrong customer's data
+- Wrote **40** research reports on AI-agent safety, RAG, security and performance, each with reproducible evidence
+
+---
+
+## 🏆 Achievements
+
+| | Competition | Host | Year |
+|:--:|:--|:--|:--:|
+| 🥇 | **TECHFIESTA '26 Speed Programming**, Winner | UMT Lahore | 2026 |
+| 🥇 | **CODERUSH '26 Capture The Flag**, Winner | ITU Lahore | 2026 |
+| 🥇 | **RC3 Capture The Flag**, Winner | Riphah Int'l University | 2025 |
+| 🥇 | **TechVerse Capture The Flag**, Winner | UMT Lahore | 2025 |
+| 🥈 | **COMBITs Speed Programming**, Runner-up | COMSATS Attock | 2025 |
+| 🎯 | **Digital Pakistan Speed Programming**, Finalist | Ignite CodePK (Govt) | 2025 |
+| 🎯 | **Digital Pakistan Cybersecurity Hackathon**, Finalist | Ignite Trillium (Govt) | 2024 |
+| 🥉 | **Bronze Medal** (Fall 2024) · **Dean's List** ×4 | FAST-NUCES | 2024–26 |
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 </div>
 
+**AI:** LLM agents · RAG · MCP · prompt evaluation · OpenAI & Anthropic APIs<br>
+**Languages:** TypeScript · Python · Java · Dart · Kotlin · C++ · C · Rust · SQL<br>
+**Backend & Web:** NestJS · Express · FastAPI · Sanic · Django · Spring Boot · Next.js · React · Tailwind CSS<br>
+**Mobile:** Flutter · Jetpack Compose · Retrofit<br>
+**Data & Infra:** PostgreSQL · Redis · BullMQ · SQLite · Docker · Playwright · Linux
+
+---
+
 <div align="center">
-  <p><i>Open to full-time opportunities, freelance projects, and exciting collaborations!</i></p>
+
+**Hiring for AI or full-stack engineering?** [Email me](mailto:shahzadannus8@gmail.com) and I'll walk you through the private projects live.
+
 </div>
