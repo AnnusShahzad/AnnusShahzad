@@ -40,8 +40,8 @@ Office staff type *"Create a purchase order for 500 steel rods from vendor ABC"*
 
 <sub>NestJS · Next.js · Python · PostgreSQL · Redis · BullMQ · Docker · Flutter</sub>
 
-### FAST Timetable: 3.1K+ students, #1 on Google
-<sub>🔒 Private repo · live in production</sub>
+### [FAST Timetable](https://fasttable.netlify.app): 3.1K+ students, #1 on Google
+<sub>🌐 Live at [fasttable.netlify.app](https://fasttable.netlify.app) · source private</sub>
 
 FAST Lahore published its timetable as one huge, confusing Excel file. I built a tool in 2 days that turns it into a clean, searchable timetable for each student, then grew it into a website. An LLM helps students resolve course clashes.
 
@@ -84,6 +84,10 @@ A mobile app for patients and pharmacists in Pakistan. It combines barcode check
 - Tested security thoroughly: **748** authorization tests and **652** QA runs. Each of the 5 bugs found became a permanent automated test
 - Built multi-tenant SaaS hosting with one isolated Docker container per customer, and tested isolation: **0** writes landed in the wrong customer's data
 - Wrote **40** research reports on AI-agent safety, RAG, security and performance, each with reproducible evidence
+
+**Teaching Assistant, FAST-NUCES Lahore** · *Spring 2025 – Present (5 consecutive semesters)*
+- Supported **9 sections** across Programming Fundamentals, Object-Oriented Programming, Data Structures and Cyber Security
+- Selected again every semester since Spring 2025, often for several sections at once
 
 ---
 
