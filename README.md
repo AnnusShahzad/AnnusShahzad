@@ -21,7 +21,8 @@
 
 - 💼 **7-month research contract (completed) at FAST-NUCES**: co-built an AI system that turns plain-English requests into ERP actions, with a human approving each one before it runs
 - 📈 **Fixed what slowed it down:** found the single queue behind 97% of the delay. Bypassing it cut median task time from **26 s to under 2 s**, and spec-to-app agents raised required-task coverage from **75% to 98.6%**
-- 🏆 **Won 4 programming and security competitions**, plus 1 runner-up and 2 national finals · **Dean's List** 4 semesters in a row
+- 👥 **Shipped to real users:** my FAST Timetable app serves **3.1K+ students** and is the **#1 Google result** for "FAST Lahore Timetable"
+- 🏆 **Won 4 programming and security competitions** (including a perfect 14/14 at CodeRush '26), plus 1 runner-up and 2 national finals · **Dean's List** 4 semesters in a row
 - 🛡️ **Safety-first AI:** approval gates, audit trails, tenant isolation, and benchmarks that prove each one works
 
 ---
@@ -38,6 +39,17 @@ Office staff type *"Create a purchase order for 500 steel rods from vendor ABC"*
 - ✅ Traced 97% of the delay to one queue. Bypassing it cut median task time from **26.2 s to 1.8 s**
 
 <sub>NestJS · Next.js · Python · PostgreSQL · Redis · BullMQ · Docker · Flutter</sub>
+
+### FAST Timetable: 3.1K+ students, #1 on Google
+<sub>🔒 Private repo · live in production</sub>
+
+FAST Lahore published its timetable as one huge, confusing Excel file. I built a tool in 2 days that turns it into a clean, searchable timetable for each student, then grew it into a website. An LLM helps students resolve course clashes.
+
+- ✅ Used by **3.1K+ students** across CS, AI, CY, SE, DS, EE, BBA and more
+- ✅ **#1 Google result** for "FAST Lahore Timetable"
+- ✅ Generates **200+** course-specific timetables, including teacher and credit-hour details
+
+<sub>Python · JavaScript · TypeScript · Tailwind CSS · HTML5 Canvas · LLMs</sub>
 
 ### [Accura](https://github.com/AnnusShahzad/Accura): AI answers that check themselves
 A team of AI agents writes an answer, a separate agent grades it, and the system rewrites it until it meets a quality bar. Teams can self-host it with their own API keys.
@@ -61,7 +73,7 @@ A mobile app for patients and pharmacists in Pakistan. It combines barcode check
 
 <sub>Flutter · FastAPI · PostgreSQL + pgvector · TensorFlow Lite</sub>
 
-**Also built:** [Tracer](https://github.com/AnnusShahzad/Tracer) (Linux process tracer in C) · JS2Rust (JavaScript → Rust compiler, in progress) · FAST timetable generator (200+ timetables for students) · real-time solar monitoring app (Kotlin) · BISE gazette parser (10k+ records)
+**Also built:** [Tracer](https://github.com/AnnusShahzad/Tracer) (Linux process tracer in C) · JS2Rust (JavaScript → Rust compiler, in progress) · real-time solar monitoring app (Kotlin) · BISE gazette parser (10k+ records)
 
 ---
 
@@ -80,11 +92,11 @@ A mobile app for patients and pharmacists in Pakistan. It combines barcode check
 | | Competition | Host | Year |
 |:--:|:--|:--|:--:|
 | 🥇 | **TECHFIESTA '26 Speed Programming**, Winner | UMT Lahore | 2026 |
-| 🥇 | **CODERUSH '26 Capture The Flag**, Winner | ITU Lahore | 2026 |
+| 🥇 | **CODERUSH '26 Capture The Flag**, Winner (only team with a perfect 14/14) | ITU Lahore | 2026 |
 | 🥇 | **RC3 Capture The Flag**, Winner | Riphah Int'l University | 2025 |
 | 🥇 | **TechVerse Capture The Flag**, Winner | UMT Lahore | 2025 |
 | 🥈 | **COMBITs Speed Programming**, Runner-up | COMSATS Attock | 2025 |
-| 🎯 | **Digital Pakistan Speed Programming**, Finalist | Ignite CodePK (Govt) | 2025 |
+| 🎯 | **Digital Pakistan Speed Programming**, Finalist (Top 30 of 1,400+ teams) | Ignite CodePK (Govt) | 2025 |
 | 🎯 | **Digital Pakistan Cybersecurity Hackathon**, Finalist | Ignite Trillium (Govt) | 2024 |
 | 🥉 | **Bronze Medal** (Fall 2024) · **Dean's List** ×4 | FAST-NUCES | 2024–26 |
 
